@@ -77,19 +77,18 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,python,java,cpp,mongodb,mysql,docker,git,github,vercel,aws,figma&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,python,java,cpp,mongodb,mysql,postgresql,redis,docker,git,github,vercel,aws,figma&theme=dark&perline=12"/>
+
+</p>
+
+<p align="center">
+
+<img width="450"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 </p>
 
 ---
-# 💻 Developer Console
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+Initializing+Neural+Core...;%3E+Loading+AI+Modules...;%3E+Connecting+To+Mainframe...;%3E+Bypassing+Firewall...;%3E+Compiling+Future...;%3E+Welcome+Back+Nitesh.+System+Online."/>
-
-</p>
 
 
 # ⚡ Featured Projects
