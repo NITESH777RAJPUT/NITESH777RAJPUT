@@ -104,10 +104,11 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESH777RAJPUT&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" alt="Top Languages"/>
-</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
 
 ---
 
