@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/RANK-ELITE_DEVELOPER-00F7FF?style=for-the-badge&logo=ghost&logoColor=00F7FF" />
   <img src="https://img.shields.io/badge/STATUS-LEGENDARY-FF00FF?style=for-the-badge&logo=star&logoColor=white" />
   <img src="https://img.shields.io/badge/CURRENT_LEVEL-99_⚡-FF007F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XP-84200_/_100000-7000FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XP-84,200_/_100,000-7000FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ACHIEVEMENT-UNSTOPPABLE-FFD700?style=for-the-badge&logo=trophy" />
 </p>
 
@@ -69,13 +69,15 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&theme=tokyonight&hide_border=true&border_radius=12" width="60%" />
 </div>
 
-### 🐍 **CONTRIBUTION SNAKE**
+---
+
+## 🐍 **CONTRIBUTION SNAKE**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%" />
+  <img src="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="85%" />
 </p>
 
 ---
