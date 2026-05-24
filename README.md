@@ -82,6 +82,15 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&
 </p>
 
 ---
+# 💻 Developer Console
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+Initializing+Neural+Core...;%3E+Loading+AI+Modules...;%3E+Connecting+To+Mainframe...;%3E+Bypassing+Firewall...;%3E+Compiling+Future...;%3E+Welcome+Back+Nitesh.+System+Online."/>
+
+</p>
+
 
 # ⚡ Featured Projects
 
