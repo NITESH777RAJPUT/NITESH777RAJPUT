@@ -1,153 +1,94 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+NITESH+SINGH+⚡;FULL+STACK+DEVELOPER;AI+%26+SYSTEM+DESIGN+ENTHUSIAST;LEVEL+99+UNLOCKED" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Nitesh+Singh;Full+Stack+Developer;AI+%26+System+Design+Enthusiast" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/RANK-ELITE_DEVELOPER-00F7FF?style=for-the-badge&logo=ghost" />
-<img src="https://img.shields.io/badge/STATUS-LEGENDARY-FF00FF?style=for-the-badge&logo=star" />
-<img src="https://img.shields.io/badge/CURRENT_LEVEL-99⚡-FF007F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ACHIEVEMENT-UNSTOPPABLE-FFD700?style=for-the-badge&logo=trophy" />
+  <a href="https://linkedin.com/in/nitesh-singh-rajput-58a200338">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:niteshsingh57371@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/niteshsingh.777">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
+---
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=00F7FF&height=130&section=header&text=CODE+THE+FUTURE&fontSize=35&animation=twinkling"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2&height=140&section=header&text=Building+Digital+Experiences&fontSize=32&fontColor=ffffff&animation=twinkling" alt="Header"/>
 </div>
 
----
+## 👋 About Me
 
-# 👤 LEVEL 1 : CHARACTER DOSSIER
+Computer Engineering student and **Full Stack Developer** with a strong passion for building scalable, high-performance web applications and AI-powered solutions.
 
-<table>
+I love turning complex problems into simple, beautiful, and efficient digital experiences. Currently focused on **modern web technologies**, **AI integration**, and **system design**.
 
-<tr>
-
-<td width="60%">
-
-### 🚀 Computer Engineering Student & Full Stack Developer
-
-Passionate about crafting scalable applications, AI systems and production ready solutions.
-
-🎯 Main Quest
-
-Building robust user centric digital experiences
-
-⚡ Special Ability
-
-Turning coffee into optimized code
-
-🛠 Focus Areas
-
-AI • Full Stack • System Design
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,tailwind,typescript&theme=dark"/>
-
-</td>
-
-</tr>
-
-</table>
+### 🚀 What I'm Currently Working On
+- Building intelligent AI-powered applications
+- Mastering System Design & Backend Architecture
+- Exploring Next.js 15, TypeScript, and Cloud-Native solutions
 
 ---
 
-# 🛠 TECH ARSENAL
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,c,cpp,tailwind,git,github,docker,vercel,figma&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,python,java,cpp,mongodb,mysql,postgresql,redis,docker,git,github,vercel,aws,figma&perline=12&theme=dark" />
 </p>
 
 ---
 
-# ⚔ ACTIVE QUESTS
+## ⚡ Featured Projects
 
-| Project | Stack | Status |
-|----------|--------|--------|
-| 🧠 7Builder | React + AI + Tailwind | 🔥 Beta |
-| 💰 Finance Pro | MERN + AI | 🚧 Progress |
-| ✅ Task Grid | HTML CSS JS | Complete |
-| 🌌 AI Portfolio | Next + AI | Soon |
+| Project | Description | Tech Stack | Status | Link |
+|---------|-------------|------------|--------|------|
+| **7Builder** | AI-powered web application builder | React, AI, Tailwind, Node.js | 🔥 Beta | [View](https://github.com/NITESH777RAJPUT/7builder) |
+| **Finance Pro** | Intelligent personal finance management system with AI insights | MERN, AI, TypeScript | 🚧 In Progress | - |
+| **Task Grid** | Modern task management application | HTML, CSS, JavaScript | ✅ Completed | [View](https://github.com/NITESH777RAJPUT/task-grid) |
+| **AI Portfolio** | Dynamic portfolio with AI chatbot | Next.js 15, TypeScript, AI | 🔜 Coming Soon | - |
+
+**Want to see more?** Check out my [Repositories](https://github.com/NITESH777RAJPUT?tab=repositories)
 
 ---
 
-# 📊 PLAYER STATS
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESH777RAJPUT&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESH777RAJPUT&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&theme=tokyonight&hide_border=true"
-/>
-
+  <img src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+## 🐍 Contribution Graph
 
 <p align="center">
-
-<img
-src="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/output/github-contribution-grid-snake.svg"
-/>
-
+  <img src="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
 
-# 🌐 CONNECT WITH THE LEGEND
+## 📫 Let's Connect
 
-<p align="center">
+I'm always open to discussing **new opportunities**, **collaborations**, or just having a chat about technology.
 
-<a href="https://linkedin.com/in/nitesh-singh-rajput-58a200338">
-
-<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="mailto:niteshsingh57371@gmail.com">
-
-<img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://instagram.com/niteshsingh.777">
-
-<img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NITESH777RAJPUT&style=for-the-badge&color=00F7FF"/>
-
-</p>
+- **Email**: niteshsingh57371@gmail.com
+- **LinkedIn**: [Nitesh Singh Rajput](https://linkedin.com/in/nitesh-singh-rajput-58a200338)
+- **Instagram**: [@niteshsingh.777](https://instagram.com/niteshsingh.777)
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NITESH777RAJPUT&style=for-the-badge&color=0A66C2&label=Profile+Views"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=ESCAPE+REALITY+•+CODE+THE+FUTURE&fontSize=22"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&text=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&fontSize=20&fontColor=ffffff" alt="Footer"/>
 </div>
