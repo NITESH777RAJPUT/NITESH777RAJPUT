@@ -127,13 +127,17 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ---
 
-# 🐍 Contribution Snake
+###
+<p>
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/output/github-contribution-grid-snake.svg"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/pacman-output/pacman-contribution-graph.svg">
+</picture>
 </p>
+
+###
 
 ---
 
