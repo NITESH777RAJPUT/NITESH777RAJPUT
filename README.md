@@ -105,11 +105,11 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 # 📊 GitHub Statistics
 <p align="center">
 
-<img height="180"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NITESH777RAJPUT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="37%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESH777RAJPUT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
