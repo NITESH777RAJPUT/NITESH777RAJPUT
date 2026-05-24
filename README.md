@@ -105,18 +105,8 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESH777RAJPUT&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-# 💭 Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESH777RAJPUT&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" alt="Top Languages"/>
 </p>
 
 ---
