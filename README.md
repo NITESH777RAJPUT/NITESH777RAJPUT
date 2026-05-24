@@ -92,13 +92,7 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&theme=tokyonight"/>
-
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <img src="https://raw.githubusercontent.com/NITESH777RAJPUT/NITESH777RAJPUT/trophy-output/trophy.svg" height="150" alt="trophy graph" /> </div>
 
 ---
 
