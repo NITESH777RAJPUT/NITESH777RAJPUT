@@ -40,9 +40,9 @@ Focused on:
 
 ---
 
-<!-- 💻 HACKER MOTION -->
+<!-- 💻 HACKER MOTION (Tech Stack ke neeche) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+neural+core...;%3E+Neural+Link+Established...;%3E+Accessing+mainframe...;%3E+Welcome+back%2C+Nitesh." alt="Hacker Terminal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+neural+core...;%3E+Neural+Link+Established...;%3E+Accessing+mainframe...;%3E+Bypassing+firewall...;%3E+Welcome+back%2C+Nitesh.+System+Online." alt="Hacker Terminal"/>
 </p>
 
 ---
@@ -58,13 +58,6 @@ Focused on:
 # 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,python,java,cpp,mongodb,mysql,postgresql,redis,docker,git,github,vercel,aws,figma&theme=dark&perline=12"/>
-</p>
-
----
-
-<!-- 🚀 Futuristic Space -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorHex=0A66C2,00D4FF,6A5ACD&height=200&section=header&text=INTO+THE+VOID&fontSize=40&fontColor=ffffff" alt="Space Motion"/>
 </p>
 
 ---
