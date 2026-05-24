@@ -104,22 +104,13 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 # 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
-
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats-anuraghazra.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESH777RAJPUT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=NITESH777RAJPUT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
