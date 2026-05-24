@@ -103,8 +103,15 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 ---
 
 # 📊 GitHub Statistics
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=NITESH777RAJPUT&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NITESH777RAJPUT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NITESH777RAJPUT&theme=tokyonight"/>
+
+<img height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NITESH777RAJPUT&theme=tokyonight"/>
+
+</p>
 
 ---
 # 💭 Dev Quote
