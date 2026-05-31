@@ -73,11 +73,12 @@ Computer Engineering student and Full Stack Developer passionate about:
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-   <img src="https://github-profile-trophy.vercel.app/?username=NITESH777RAJPUT&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" height="150" alt="trophy graph" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NITESH777RAJPUT&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophy graph" />
 </div>
 
 ---
