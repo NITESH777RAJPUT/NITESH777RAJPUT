@@ -78,9 +78,8 @@ Computer Engineering student and Full Stack Developer passionate about:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NITESH777RAJPUT&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=NITESH777RAJPUT&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NITESH777RAJPUT&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
 </div>
-
 ---
 
 # 📈 Contribution Activity
